@@ -1,0 +1,51 @@
+7 주차 
+
+211 주요 용어 정리 + colab
+
+Git 로그인
+Google Drive 로그인 
+
+175 카카오 API 이용한 이미지 판별 
+
+네이버 API: 검색 서비스 - 신청 필요 (요즘 없어지는 추세) 
+               검색 결과 받아와서 분석 
+카카오 API: Vision 서비스 (음성, 이미지, 동영상)  
+
+구글 API: 사이트 유입 분석(GA: Google Analytics) 
+
+
+165 텐서플로루 - colaboratory 
+
+colab 
+색 이니셜: g^, r--, bs 
+
+color='red' 
+
+
+155 네이벞 API이용하여 크롤링 테스트 
+
+https://search.naver.com/search?query=자동차
+
+브라우저(크롬)  <-----> 네이버 
+검색어: 자동차              code 값: 200 번    
+		        ok - 200번 
+			not found - 404
+			internal error - 500 
+
+데이터를 받아와서 json viewer 로 형태확인 가능 
+
+157 여러 페이지 크롤링 2  
+158 여러 페이지 크롤링 3 
+
+
+162 여러 페이지 크롤링 4 
+
+*Json 파일읽어와서 분석 
+-postdate로 정렬
+-postdate 로 그룹지어  count
+-블러거네임으로 일차 정렬,  postdate로 2차 정렬 
+-위에 결과를 count  
+-위에 결과를 title로 내림 차순 
+
+
+
